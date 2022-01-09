@@ -1,0 +1,45 @@
+/* global-heading  */
+.global-heading{
+     letter-spacing: 5px;
+}
+.underline{
+    border: 2px solid #00000075;
+    width: 80px;
+    margin: auto;
+}
+#team{
+    background-color: #e7f1f8;
+}
+#skill{
+    background-color: #ffffff;
+}
+
+/* header */
+header{
+  background-color: #b264d0;
+  }
+  nav{
+      background-color: #b264d0;
+      
+  }
+.header-content button{
+  background-color: #eb7d4b;
+  box-shadow: opx opx 5px #eb7d4b;
+}
+.header-content button:hover{
+    background-color: #f86d2d;
+}
+nav ul li a{
+    color: white!important;
+    border-radius: 10px;
+}
+nav ul li a:hover{
+    background-color: wheat;
+    border-radius: 10px;
+    transition: 0.8ms;
+}
+/* about section */
+#about{
+    background-color: #17c2a4;
+}
+
